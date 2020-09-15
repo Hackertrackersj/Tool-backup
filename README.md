@@ -2,7 +2,7 @@
 snap v1.0
 A new featured tool for termux
 
-mag About snap:
+ About Tool-backup:
 Tool-backup is a bash based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc..<br>
 this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.<br>
 snap is available for:<br>
