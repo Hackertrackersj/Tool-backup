@@ -5,9 +5,9 @@ A new featured tool for termux
  About Tool-backup:<br>
 Tool-backup is a bash based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc..<br>
 this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.<br>
-snap is available for:<br>
+Tool-backup is available for:<br>
 Termux<br>
-pushpin Installation and usage guide:<br>
+ Installation and usage guide:<br>
 $ apt-get update -y
 $ apt-get upgrade -y<br>
 $ pkg install python -y <br>
