@@ -34,7 +34,8 @@ Termuc Restore :<br>
 From this option you can restore the backup tools of termux and default terminal as it was first.<br>
 Update script :<br>
 
-From this option you can update snap tool if updates are available for that.<br>
+From this option you can update tool backup
+if updates are available for that.<br>
 Exit :<br>
-<br>
-From this option you can exit from snap tool.<br>
+<br>Credit goes to Noob hacker
+From this option you can exit from Tool backup tool.<br>
