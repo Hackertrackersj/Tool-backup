@@ -37,5 +37,5 @@ Update script :<br>
 From this option you can update tool backup
 if updates are available for that.<br>
 Exit :<br>
-<br>Credit goes to Noob hacker
+<br>Credit goes to Noob hacker<br>
 From this option you can exit from Tool backup tool.<br>
